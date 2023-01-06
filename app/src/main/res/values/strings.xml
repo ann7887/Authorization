@@ -20,6 +20,6 @@
     <string name="shr_bottoms_label">Bottoms</string>
     <string name="shr_dresses_label">Dresses</string>
     <string name="shr_account_label">My Account</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="opened_success">SUCCESS!</string>
+    <string name="opened">Correct password!</string>
 </resources>
