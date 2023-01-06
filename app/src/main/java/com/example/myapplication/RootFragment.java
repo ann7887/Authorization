@@ -72,7 +72,7 @@ public class RootFragment extends Fragment {
                     passwordTextInput.setError(null);
                     usernameTextInput.setError(null);
                     Bundle bundle = new Bundle();
-                    bundle.putString(ARG_PARAM1, "correct password");
+                    bundle.putString(ARG_PARAM1, "correct username and password");
                     Navigation.findNavController(view).navigate(R.id.action_rootFragment_to_openedFragment, bundle);
                 }
             }
