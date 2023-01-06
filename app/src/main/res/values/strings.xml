@@ -1,11 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="shr_app_name">Shrine</string>
+    <string name="a">Application</string>
     <string name="shr_hint_username">Username</string>
     <string name="shr_hint_password">Password</string>
     <string name="shr_button_next">Next</string>
     <string name="shr_button_cancel">Cancel</string>
     <string name="shr_error_password">Password must contain at least 8 characters.</string>
+    <string name="shr_error_username">Username must not be empty.</string>
     <string name="shr_filter_title">Filter</string>
     <string name="shr_search_title">Search</string>
     <string name="shr_product_title">Title</string>
@@ -20,6 +22,4 @@
     <string name="shr_bottoms_label">Bottoms</string>
     <string name="shr_dresses_label">Dresses</string>
     <string name="shr_account_label">My Account</string>
-    <string name="opened_success">SUCCESS!</string>
-    <string name="opened">Correct password!</string>
 </resources>
